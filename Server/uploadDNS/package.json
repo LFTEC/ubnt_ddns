@@ -1,0 +1,16 @@
+{
+  "name": "uploaddns",
+  "version": "1.0.0",
+  "description": "upload ip to dns server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiangyao",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
