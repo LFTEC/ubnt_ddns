@@ -23,7 +23,7 @@
 
 #### SSH远程登录配置
 
-  ```shell
+  ```Bash
     ssh-keygen -t rsa
     ssh-copy-id admin@router
   ```
